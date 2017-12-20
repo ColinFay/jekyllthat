@@ -10,12 +10,14 @@ hosted on GitHub.
 
 ## About
 
-If ever you start a blog today, you definitely should use [Blogdown](),
-which is a better tool to create a blog within RStudio.
+If ever you start a blog today, you definitely should use
+[Blogdown](https://github.com/rstudio/blogdown), which is a better tool
+to create a blog within RStudio.
 
 But if (as me), you haven’t had the time to convert your blog to
 Blogdown, this package is here to help you being more efficient with
-RStudio and Jekyll.
+RStudio and Jekyll. This is the package I use for
+[colinfay.me](colinfay.me).
 
 {jekyllthat} contains :
 
