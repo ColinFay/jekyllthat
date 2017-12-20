@@ -6,8 +6,6 @@ Description: Convert a Rmd to a Jekyll to be hosted on Github.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Suggests: 
-    testthat
 Imports: 
     rmarkdown
 RoxygenNote: 6.0.1
