@@ -1,0 +1,10 @@
+---
+title: "Title"
+author: author
+post_date: Date
+layout: single
+permalink: /link
+categories : cat
+output: jekyllthat::jekylldown
+excerpt_separator: <!--more-->
+---
