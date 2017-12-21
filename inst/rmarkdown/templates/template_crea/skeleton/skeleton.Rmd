@@ -1,10 +1,10 @@
 ---
 title: "Title"
-author: author
+author: Author
 post_date: Date
 layout: single
 permalink: /link
-categories : cat
+categories: cat
 output: jekyllthat::jekylldown
 excerpt_separator: <!--more-->
 ---

@@ -1,0 +1,4 @@
+Name: New Post
+Description: Create a new post
+Binding: create_post_widget
+Interactive: false

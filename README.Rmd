@@ -48,11 +48,29 @@ You can also use the `config_rmd()`, that takes as argument the path to your `co
 
 ## How to use 
 
+### With the addin 
+
++ Open the addin 
+
+![](addin.png)
+
++ Fill the widget
+
+![](new_post_gadget.png)
+
++ You've got your post with the right Rmd name \\o/
+
+![](new_post_addin.png)
+
+### With template
+
 + Create a new post with New File > RMarkdown > From Template 
 
 + Fill / Modify the yaml as usual. 
 
 + Write and save into the `_posts` folder
+
+## Knit and send
 
 + Knit to `jekylldown`
 
@@ -64,7 +82,7 @@ If you've followed the step described in "Before using", you can push everything
 
 ## To Do 
 
-+ Create a Shiny Widget for post creation 
++ A better shiny widget
 
 ## Contact
 

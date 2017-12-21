@@ -9,3 +9,6 @@ use_lifecycle_badge("Experimental")
 use_readme_rmd()
 
 use_package("rmarkdown")
+use_package("glue")
+use_package("shiny")
+use_package("miniUI")

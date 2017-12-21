@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+<https://img.shields.io/badge/lifecycle-experimental-orange.svg>
 
 # jekyllthat
 
@@ -17,7 +17,7 @@ to create a blog within RStudio.
 But if (as me), you haven’t had the time to convert your blog to
 Blogdown, this package is here to help you being more efficient with
 RStudio and Jekyll. This is the package I use for
-[colinfay.me](http://colinfay.me).
+[colinfay.me](colinfay.me).
 
 {jekyllthat} contains :
 
@@ -48,11 +48,29 @@ should definitely do it manually.
 
 ## How to use
 
+### With the addin
+
+  - Open the addin
+
+![](addin.png)
+
+  - Fill the widget
+
+![](new_post_gadget.png)
+
+  - You’ve got your post with the right Rmd name \\o/
+
+![](new_post_addin.png)
+
+### With template
+
   - Create a new post with New File \> RMarkdown \> From Template
 
   - Fill / Modify the yaml as usual.
 
   - Write and save into the `_posts` folder
+
+## Knit and send
 
   - Knit to `jekylldown`
 
@@ -66,7 +84,7 @@ website.
 
 ## To Do
 
-  - Create a Shiny Widget for post creation
+  - A better shiny widget
 
 ## Contact
 
