@@ -29,6 +29,8 @@ RStudio and Jekyll. This is the package I use for
 
 `output: jekyllthat::jekylldown`
 
+![](yaml.png)
+
 ## Worflow
 
 ### Before using
@@ -44,7 +46,27 @@ You can also use the `config_rmd()`, that takes as argument the path to
 your `config.yml`. But as it is a 15 seconds job to do it manually, you
 should definitely do it manually.
 
-### Misc
+## How to use
+
+  - Create a new post with New File \> RMarkdown \> From Template
+
+  - Fill / Modify the yaml as usual.
+
+  - Write and save into the `_posts` folder
+
+  - Knit to `jekylldown`
+
+![](knit_to_jekyll.png)
+
+  - Push to github
+
+If you’ve followed the step described in “Before using”, you can push
+everything (Rmd, folders, md), only the .md will be built for your
+website.
+
+## To Do
+
+  - Create a Shiny Widget for post creation
 
 ## Contact
 
