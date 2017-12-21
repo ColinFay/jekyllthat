@@ -11,7 +11,7 @@ hosted on GitHub.
 ## About
 
 If ever you start a blog today, you definitely should use
-[Blogdown](https://github.com/rstudio/blogdown), which is a better tool
+[Blogdown](https://github.com/rstudio/blogdown), which is the best tool
 to create a blog within RStudio.
 
 But if (as me), you haven’t had the time to convert your blog to
