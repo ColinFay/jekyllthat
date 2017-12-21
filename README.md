@@ -5,8 +5,8 @@
 
 # jekyllthat
 
-Basic RMarkdown to Github Flavored Jekyll, used to write posts on a blog
-hosted on GitHub.
+Basic RMarkdown to Github Flavored Jekyll, usefull for writting posts on
+a blog hosted on GitHub, straight from RStudio.
 
 ## About
 
@@ -29,14 +29,21 @@ RStudio and Jekyll. This is the package I use for
 
 `output: jekyllthat::jekylldown`
 
-## Before using
+## Worflow
 
-If you want to keep your Rmd inside `_posts`, you should add to your
-config.yml, in the exclude part :
+### Before using
+
+The easier worflow is to keep your Rmd inside the `_posts` folder. If
+you want to do that, you should specify jekyll to ignore this in your
+config.yml. You can manually specifiy this in the `exclude` part, by
+adding :
 
   - “\*.Rmd"
 
-## Misc
+You can also use the `config_rmd()`, that takes as argument the path to
+your `config.yml`.
+
+### Misc
 
 ## Contact
 
