@@ -41,7 +41,8 @@ adding :
   - “\*.Rmd"
 
 You can also use the `config_rmd()`, that takes as argument the path to
-your `config.yml`.
+your `config.yml`. But as it is a 15 seconds job to do it manually, you
+should definitely do it manually.
 
 ### Misc
 
