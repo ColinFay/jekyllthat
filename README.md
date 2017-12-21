@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<https://img.shields.io/badge/lifecycle-experimental-orange.svg>
+![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 # jekyllthat
 
@@ -17,7 +17,7 @@ to create a blog within RStudio.
 But if (as me), you haven’t had the time to convert your blog to
 Blogdown, this package is here to help you being more efficient with
 RStudio and Jekyll. This is the package I use for
-[colinfay.me](colinfay.me).
+[colinfay.me](http://colinfay.me).
 
 {jekyllthat} contains :
 
