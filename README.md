@@ -86,6 +86,8 @@ website.
 
   - A better shiny widget
 
+  - Write tests
+
 ## Contact
 
 Questions and feedbacks [welcome](mailto:contact@colinfay.me)\!

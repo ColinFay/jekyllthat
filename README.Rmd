@@ -84,6 +84,8 @@ If you've followed the step described in "Before using", you can push everything
 
 + A better shiny widget
 
++ Write tests
+
 ## Contact
 
 Questions and feedbacks [welcome](mailto:contact@colinfay.me)!
