@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![](<https://img.shields.io/badge/lifecycle-experimental-orange.svg>)
+![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 # jekyllthat
 
