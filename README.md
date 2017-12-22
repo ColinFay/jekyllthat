@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<https://img.shields.io/badge/lifecycle-experimental-orange.svg>
+![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 # jekyllthat
 
@@ -12,12 +12,15 @@ a blog hosted on GitHub, straight from RStudio.
 
 If ever you start a blog today, you definitely should use
 [Blogdown](https://github.com/rstudio/blogdown), which is the best tool
-to create a blog within RStudio.
+to create a blog within RStudio. As Yuhui pointed out on
+[Twitter](https://twitter.com/xieyihui/status/944060574987677697), you
+can generate Jekyll with {blogdown}, and here’s how to:
+<https://bookdown.org/yihui/blogdown/jekyll.html>. I strongly advice you
+use this method.
 
-But if (as me), you haven’t had the time to convert your blog to
-Blogdown, this package is here to help you being more efficient with
-RStudio and Jekyll. This is the package I use for
-[colinfay.me](colinfay.me).
+But if (as me), you haven’t taken the time to convert to Blogdown, this
+package is here to help you being more efficient with RStudio and
+Jekyll. This is the package I use for [colinfay.me](colinfay.me).
 
 {jekyllthat} contains :
 

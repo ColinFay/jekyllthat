@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-  [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 
 # jekyllthat
@@ -22,9 +22,9 @@ Basic RMarkdown to Github Flavored Jekyll, usefull for writting posts on a blog 
 
 ## About
 
-If ever you start a blog today, you definitely should use [Blogdown](https://github.com/rstudio/blogdown), which is the best tool to create a blog within RStudio. 
+If ever you start a blog today, you definitely should use [Blogdown](https://github.com/rstudio/blogdown), which is the best tool to create a blog within RStudio. As Yuhui pointed out on [Twitter](https://twitter.com/xieyihui/status/944060574987677697), you can generate Jekyll with {blogdown}, and here's how to: [https://bookdown.org/yihui/blogdown/jekyll.html](https://bookdown.org/yihui/blogdown/jekyll.html). I strongly advice you use this method. 
 
-But if (as me), you haven't had the time to convert your blog to Blogdown, this package is here to help you being more efficient with RStudio and Jekyll. This is the package I use for [colinfay.me](colinfay.me).
+But if (as me), you haven't taken the time to convert to Blogdown, this package is here to help you being more efficient with RStudio and Jekyll. This is the package I use for [colinfay.me](colinfay.me).
 
 {jekyllthat} contains : 
 
